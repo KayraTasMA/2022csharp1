@@ -1,0 +1,1 @@
+Room PlayerSprite bool int KeyBind Bitmap Graphics string float
